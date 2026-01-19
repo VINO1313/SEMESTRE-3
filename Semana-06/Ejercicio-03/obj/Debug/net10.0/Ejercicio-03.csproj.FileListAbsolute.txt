@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA DE DATOS\semana-06\ejercicio-03\bin\Debug\net10.0\Ejercicio-03.exe
+C:\Users\User\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA DE DATOS\semana-06\ejercicio-03\bin\Debug\net10.0\Ejercicio-03.deps.json
+C:\Users\User\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA DE DATOS\semana-06\ejercicio-03\bin\Debug\net10.0\Ejercicio-03.runtimeconfig.json
+C:\Users\User\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA DE DATOS\semana-06\ejercicio-03\bin\Debug\net10.0\Ejercicio-03.dll
+C:\Users\User\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA DE DATOS\semana-06\ejercicio-03\bin\Debug\net10.0\Ejercicio-03.pdb
+C:\Users\User\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA DE DATOS\semana-06\ejercicio-03\obj\Debug\net10.0\Ejercicio-03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA DE DATOS\semana-06\ejercicio-03\obj\Debug\net10.0\Ejercicio-03.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA DE DATOS\semana-06\ejercicio-03\obj\Debug\net10.0\Ejercicio-03.AssemblyInfo.cs
+C:\Users\User\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA DE DATOS\semana-06\ejercicio-03\obj\Debug\net10.0\Ejercicio-03.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA DE DATOS\semana-06\ejercicio-03\obj\Debug\net10.0\Ejercicio-03.dll
+C:\Users\User\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA DE DATOS\semana-06\ejercicio-03\obj\Debug\net10.0\refint\Ejercicio-03.dll
+C:\Users\User\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA DE DATOS\semana-06\ejercicio-03\obj\Debug\net10.0\Ejercicio-03.pdb
+C:\Users\User\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA DE DATOS\semana-06\ejercicio-03\obj\Debug\net10.0\Ejercicio-03.genruntimeconfig.cache
+C:\Users\User\OneDrive - Universidad Estatal Amazónica\Escritorio\ESTRUCTURA DE DATOS\semana-06\ejercicio-03\obj\Debug\net10.0\ref\Ejercicio-03.dll
